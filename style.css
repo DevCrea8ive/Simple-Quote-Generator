@@ -1,0 +1,25 @@
+body{
+        margin: 0;
+padding: 0;
+font-family:Arial, Helvetica, sans-serif;
+text-align: center;
+background-color: #2c3a47;
+color: white;
+    }
+    #btn{
+        background: #0582e9;
+color: #fff;
+border: none;
+outline: none;
+border-radius: 7px;
+padding: 2rem;
+margin-bottom: 0.4rem;
+    }
+    #heart {
+        color: red;
+        margin-left: 8px;
+    }
+    h2 span{
+font-size: 40px;
+color: #f00;
+}
